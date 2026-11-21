@@ -13,6 +13,8 @@
   <a href="https://veltrioapp.com"><strong>veltrioapp.com</strong></a> ·
   <a href="https://github.com/VeltrioApp/veltrio-macos/releases/latest">macOS</a> ·
   <a href="https://github.com/VeltrioApp/veltrio-windows/releases/latest">Windows</a> ·
+  <a href="https://github.com/VeltrioApp/veltrio-ios/releases/latest">iOS / iPadOS</a> ·
+  <a href="https://github.com/VeltrioApp/veltrio-tvos/releases/latest">Apple TV</a> ·
   <a href="https://github.com/VeltrioApp/veltrio-android/releases/latest">Android</a> ·
   <a href="https://github.com/VeltrioApp/veltrio-androidtv/releases/latest">Android TV</a>
 </p>
@@ -34,17 +36,17 @@
 
 ---
 
-### Repositories
+### Repositories & Downloads
 
 | Repository | Platform | Stack | Latest |
 |---|---|---|---|
 | [`veltrio-core`](https://github.com/VeltrioApp/veltrio-core) | Shared core | Rust + UniFFI | [![Release](https://img.shields.io/github/v/release/VeltrioApp/veltrio-core?color=e6a84b&label=)](https://github.com/VeltrioApp/veltrio-core/releases/latest) |
 | [`veltrio-macos`](https://github.com/VeltrioApp/veltrio-macos) | macOS 14+ | SwiftUI + libmpv + Sparkle | [![Release](https://img.shields.io/github/v/release/VeltrioApp/veltrio-macos?color=e6a84b&label=)](https://github.com/VeltrioApp/veltrio-macos/releases/latest) |
 | [`veltrio-windows`](https://github.com/VeltrioApp/veltrio-windows) | Windows 10/11 | WinUI 3 (.NET 10) + libmpv + Velopack | [![Release](https://img.shields.io/github/v/release/VeltrioApp/veltrio-windows?color=e6a84b&label=)](https://github.com/VeltrioApp/veltrio-windows/releases/latest) |
+| [`veltrio-ios`](https://github.com/VeltrioApp/veltrio-ios) | iPhone & iPad | SwiftUI + libmpv · [AltStore source](https://veltrioapp.com/altstore.json) | [![Release](https://img.shields.io/github/v/release/VeltrioApp/veltrio-ios?color=e6a84b&label=)](https://github.com/VeltrioApp/veltrio-ios/releases/latest) |
+| [`veltrio-tvos`](https://github.com/VeltrioApp/veltrio-tvos) | Apple TV | SwiftUI (tvOS 18+) + libmpv | [![Release](https://img.shields.io/github/v/release/VeltrioApp/veltrio-tvos?color=e6a84b&label=)](https://github.com/VeltrioApp/veltrio-tvos/releases/latest) |
 | [`veltrio-android`](https://github.com/VeltrioApp/veltrio-android) | Android 8+ | Jetpack Compose + libmpv | [![Release](https://img.shields.io/github/v/release/VeltrioApp/veltrio-android?color=e6a84b&label=)](https://github.com/VeltrioApp/veltrio-android/releases/latest) |
 | [`veltrio-androidtv`](https://github.com/VeltrioApp/veltrio-androidtv) | Android TV / Google TV | Jetpack Compose + libmpv | [![Release](https://img.shields.io/github/v/release/VeltrioApp/veltrio-androidtv?color=e6a84b&label=)](https://github.com/VeltrioApp/veltrio-androidtv/releases/latest) |
-| [`veltrio-ios`](https://github.com/VeltrioApp/veltrio-ios) | iPhone & iPad | SwiftUI + libmpv | Open source |
-| [`veltrio-tvos`](https://github.com/VeltrioApp/veltrio-tvos) | Apple TV | SwiftUI (tvOS 18+) + libmpv | Open source |
 | [`veltrio-site`](https://github.com/VeltrioApp/veltrio-site) | Website | Static (`veltrioapp.com`) | [Live](https://veltrioapp.com) |
 
 ---
